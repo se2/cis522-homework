@@ -1,0 +1,9 @@
+Grade:
+87/100
+
+Comments:
+- Problem 1
+Effect on availability missing in pseudo code [Hospitals can have multiple positions unlike marriage problem] (-3)
+
+- Problem 2
+Incorrect 2.4 (Correct Ans : A-Z, B-X, C-W, D-V, E-Y (-10)

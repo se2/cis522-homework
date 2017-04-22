@@ -1,0 +1,8 @@
+Grade:
+92/100
+
+Comments:
+Problem 1
+- 4 (Example problem instance missing)  -5
+- Code should not be hard coded (Applicable for any instance)(-3)
+- Example should be treated as a test case.

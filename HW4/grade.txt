@@ -1,0 +1,7 @@
+Grade:
+104/110
+
+Comments:
+Part B
+1. 2nd subarray need to be multiplied by 2, -3
+2. Boundary conditions for child node needed, Ex- root->left = Null, -3

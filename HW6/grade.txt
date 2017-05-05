@@ -1,0 +1,12 @@
+Grade:
+105/140
+
+Comments:
+2. Problem instance needed -5﻿﻿﻿, 
+   Show step 2 for NP complete class -5 (Refer Page 473﻿﻿)﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
+3. Problem instance missing -5﻿﻿﻿﻿﻿
+4. Problem instance missing -5
+5. Problem instance missing -5
+6. Hint: Can also be solved using Min-cut algorithm (Network Model﻿) ﻿or﻿, Project Selection Problem﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿(Class P﻿)﻿.﻿
+   Problem instance missing -5
+7. Problem instance missing -5
